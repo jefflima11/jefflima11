@@ -1,11 +1,11 @@
-### Hi there 👋
+### Olá sou Jefferson, estudante de programação e apaixonado pela área de desenvolvimento👋
 
 <!--
 **jefflima11/jefflima11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+ 🔭 Atualmente trabalho como analista e desenvolvedor de sistema jr no Hospital Unimed Imperatriz
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
