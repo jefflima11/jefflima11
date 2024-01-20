@@ -1,16 +1,18 @@
-### Olá sou Jefferson, estudante de programação e apaixonado pela área de desenvolvimento👋
-🔭 Atualmente trabalho como analista e desenvolvedor de sistema jr no Hospital Unimed Imperatriz
-<!--
-**jefflima11/jefflima11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻🖱 **Olá eu sou Jefferson Lima** 👌😊
+### Objetivo: Continuar me desenvolvendo na área de desenvolvimento backend
 
-Here are some ideas to get you started:
 
- 🔭 Atualmente trabalho como analista e desenvolvedor de sistema jr no Hospital Unimed Imperatriz
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏢 **Atuação Profissional**
+- Analista e desenvolvedor de sistemas na Unimed Imperatriz Maranhão
+
+## 📱 Redes sóciais
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/jefferson-lima-104799180/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/Snake_Norato/)
+
+## 🚀 Linguagens Mais Usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefflima11&layout=compact)
+
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=005C84)
+
+## 👀 My Streaks
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jefflima11&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
