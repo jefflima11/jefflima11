@@ -1,7 +1,8 @@
-<img align="right" width="350px" src="https://www.icegif.com/wp-content/uploads/2022/09/icegif-1210.gif">
 
 ##  **Hey sou Jefferson Lima** 
+<img align="right" width="350px" src="https://www.icegif.com/wp-content/uploads/2022/09/icegif-1210.gif">
 Desejo continuar me desenvolvendo na área de desenvolvimento backend
+
 
 - Estudante de ciências da computação.
 - Analista e desenvolvedor de sistemas na Unimed Imperatriz Maranhão.
