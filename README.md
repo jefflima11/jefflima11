@@ -1,11 +1,14 @@
-# Hey, sou Jefferson Lima
+# Hey, I'm Jefferson
 <img align="right" width="350px" src="https://www.icegif.com/wp-content/uploads/2022/09/icegif-1210.gif">
 
-### 🌟 Sobre Mim
-Sou estudante de Ciências da Computação e atuo como analista e desenvolvedor de sistemas na Unimed Imperatriz Maranhão. Tenho experiência em diversas tecnologias, incluindo PL/SQL, SQL, Node.js, C e C#. Estou em constante busca de crescimento na área de ciência de dados e desenvolvimento backend.
+### 🌟 About me
+I am a Computer Science student and work as a systems analyst and developer at Unimed Imperatriz Maranhão. I have experience in various technologies, including PL/SQL, T-SQL, SQL, Node.js and C. I am constantly seeking growth in the field of data science and backend development.
 
-### 📱 Redes sóciais
+### 📱 Social network
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/jefferson-lima-104799180/) 
 
-### 🚀 Linguagens Mais Usadas
+### Github stats
+<img alt="Mex978 Github Stats" src="https://github-readme-stats.vercel.app/api?username=mex978&show_icons=true&hide_border=true" />
+
+### 🚀 Most used languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefflima11&layout=compact)
