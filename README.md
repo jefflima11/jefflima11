@@ -8,7 +8,7 @@ I am a Computer Science student and work as a systems analyst and developer at U
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/jefferson-lima-104799180/) 
 
 ### Github stats
-<img alt="Mex978 Github Stats" src="https://github-readme-stats.vercel.app/api?username=mex978&show_icons=true&hide_border=true" />
+<img alt="Mex978 Github Stats" src="https://github-readme-stats.vercel.app/api?username=jefflima11&show_icons=true&hide_border=true" />
 
 ### 🚀 Most used languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefflima11&layout=compact)
